@@ -1,4 +1,4 @@
-# Spotify Landing Page
+<img width="1915" height="857" alt="Screenshot 2025-10-27 130008" src="https://github.com/user-attachments/assets/0505358c-4ff7-43d4-a52f-22139261fe24" /># Spotify Landing Page
 
 A simple, responsive landing page clone inspired by Spotify's marketing pages. This repository contains the static HTML, CSS, and assets for a single-page landing site meant for demonstration, learning, or portfolio use.
 
@@ -7,6 +7,9 @@ A simple, responsive landing page clone inspired by Spotify's marketing pages. T
 - `index.html` — the main HTML page.
 - `style.css` — styles for the landing page.
 - `assets/` — images and other static assets used by the page.
+
+<img width="1915" height="857" alt="Screenshot 2025-10-27 130008" src="https://github.com/user-attachments/assets/b969706c-3c0a-490d-a828-9cd733b870e6" />
+<img width="1919" height="865" alt="Screenshot 2025-10-27 130019" src="https://github.com/user-attachments/assets/6162b62f-ed1d-40da-8f5f-95f8675e1760" />
 
 ## Features
 
