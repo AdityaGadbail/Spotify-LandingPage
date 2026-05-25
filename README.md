@@ -1,5 +1,9 @@
 # Spotify Landing Page
+## Live Demo
 
+[![Vercel](https://vercelbadge.vercel.app/api/AdityaGadbail/Spotify-LandingPage)](https://spotify-landing-page-beta.vercel.app/)
+
+View the live site: [https://spotify-landing-page-beta.vercel.app/](https://spotify-landing-page-beta.vercel.app/)
 A simple, responsive landing page clone inspired by Spotify's marketing pages. This repository contains the static HTML, CSS, and assets for a single-page landing site meant for demonstration, learning, or portfolio use.
 
 ## Contents
