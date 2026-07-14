@@ -3,7 +3,7 @@ A simple, responsive landing page clone inspired by Spotify's marketing pages. T
 
 ## Live Demo
 
-Check out the live site: [Spotify]((https://spotify-landing-page-beta.vercel.app/))
+Check out the live site: [Spotify](https://spotify-landing-page-beta.vercel.app/)
 
 ## Contents
 
